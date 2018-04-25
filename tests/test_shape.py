@@ -31,3 +31,7 @@ def test_send():
     sq.send_shape(shape_sender)
     print(shape_sender.mock_calls)
     shape_sender.send.assert_called_with("Square")
+
+
+def test_one():
+    pass
