@@ -1,0 +1,6 @@
+{
+  "test_shape.py": true,
+  "test_shape.py::test_areas_of_different_shapes[3-6]": true,
+  "test_shape.py::test_areas_of_different_shapes[<unit_testing.shape.Square object at 0x7f32d46834e0>]": true,
+  "test_shape.py::test_areas_of_different_shapes[shape0]": true
+}
